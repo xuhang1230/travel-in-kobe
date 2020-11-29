@@ -1,1 +1,1 @@
-# travel-in-kobe
+# kobe
